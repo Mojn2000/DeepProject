@@ -8,6 +8,11 @@ Ida B. Villesen (s174385), Mads E. Hansen (s174434)
 DESCRIPTION:
 Use cheaply avaiable data from rental cars (specifically accelerometer info) to detect poor roads.
 
+CODE VERSIONS:
+1_1 -> AE, Bi-directional RNN (GRU)
+1_3 -> AE, Uni-directional RNN (GRU)
+2_0 -> Supervised, Uni-directional RNN (GRU)
+
 NB:
 We used ~1gb of data. It is not possible to upload files larger than 25mb to a free github.
 
