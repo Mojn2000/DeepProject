@@ -1,0 +1,11 @@
+####  README FOR PROJECT IN DEEP LEARNING ####
+PROJECT NAME:
+Anomaly detection in time series data using autoencoders.
+
+STUDENTS: 
+Ida B. Villesen (s174385), Mads E. Hansen (s174434)
+
+DESCRIPTION:
+Use cheaply avaiable data from rental cars (specifically accelerometer info) to detect poor roads.
+
+
