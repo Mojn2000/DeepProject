@@ -14,5 +14,7 @@ CODE VERSIONS:
 2_0 -> Supervised, Uni-directional RNN (GRU)
 
 NB:
-We used ~1gb of data. It is not possible to upload files larger than 25mb to a free github.
+We used ~1gb of data. It is not possible to upload files larger than 25mb to a free github. The data is available here:
+https://drive.google.com/drive/folders/1SS_IpHoa0S4WfVYzxabk8zFGLHGqmc6e
+
 
